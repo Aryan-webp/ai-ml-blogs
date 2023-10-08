@@ -1,1 +1,1 @@
-> ## To take a tour of our blog page [click here...](https://github.com/Aryan-webp/init_task_web)
+> ## To take a tour of our blog page [click here...](https://dj-init-blogs.netlify.app/)
