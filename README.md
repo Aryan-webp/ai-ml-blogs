@@ -1,1 +1,1 @@
-> ## To take a tour of our blog page [click here...](https://dj-init-blogs.netlify.app/)
+> ## To take a tour of our blog page [click here...](https://ai-ml-blogs.netlify.app/)

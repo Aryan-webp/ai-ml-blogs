@@ -550,6 +550,8 @@ function render() {
     scaleImage(images[imageSeq.frame], context);
 }
 
+let logo = document.getElementById('logo')
+
 function scaleImage(img, ctx) {
     var canvas = ctx.canvas;
     var hRatio = canvas.width / img.width;

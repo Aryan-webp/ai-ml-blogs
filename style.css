@@ -126,14 +126,15 @@ canvas{
     left: 15px;
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
-    width: 280px;
+    width: 310px;
     height: 45px;
-    background-color: white;
+    /* background-color: white; */
     border: none;
     border-radius: 40px;
     align-items: center;
-    color: var(--black);
-    box-shadow: -1px 1px 1.5px var(--dark-blue);
+    color: var(--white);
+    text-shadow: 2px 2px 2px var(--black);
+    background: rgba(99, 99, 99, 0.15);
 }
 .navbar>h1>span{
     color: rgb(0, 183, 255);
@@ -141,10 +142,10 @@ canvas{
 .logo{
     width: 40px;
     height: 40px;
-    border: 0.4px solid var(--black);
+    /* border: 0.4px solid var(--black); */
     border-radius: 20px;
     margin-right: 10px;
-    background-image: url(assets/init-logo.png);
+    background-image: url(assets/logo.png);
     background-size: cover;
 }
 button.active, button:hover{
@@ -165,7 +166,7 @@ button.active, button:hover{
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     font-weight: 500;
-    width: 440px;
+    width: 490px;
     position: absolute;
     right: 4%;
     top: 60%;
